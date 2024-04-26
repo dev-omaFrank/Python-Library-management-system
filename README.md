@@ -1,7 +1,7 @@
 # Python-Library-management-system
 
-A library management system created eith python.
+A library management system created with python.
 
 # Usage
-Copy the file and paste it on your IDE or any code editir you're comfortable with.
+Copy the file and paste it on your IDE or any code editor you're comfortable with.
 Run the program.
